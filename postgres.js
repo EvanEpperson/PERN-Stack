@@ -16,7 +16,7 @@
 // module.exports = client;
 
 
-cont Client = require('pg').Client
+const Client = require('pg').Client
 
 const dbConfig = {
     connectionString: 'postgresql://localhost:5432/contacts' 
