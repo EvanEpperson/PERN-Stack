@@ -4,6 +4,8 @@
 // //     connectionString: process.env.DATABASE_URL || 'postgresql://localhost:5432/contacts',
 // // })
 
+
+// linux code not needed for people on mac 
 // const client = new Client({
 //   user: "evanepperson",
 //   host: "localhost",
